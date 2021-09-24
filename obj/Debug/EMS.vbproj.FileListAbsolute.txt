@@ -1,0 +1,13 @@
+C:\Users\BHILLS\Desktop\Developer\EMS\bin\Debug\EMS.exe.config
+C:\Users\BHILLS\Desktop\Developer\EMS\bin\Debug\EMS.exe
+C:\Users\BHILLS\Desktop\Developer\EMS\bin\Debug\EMS.pdb
+C:\Users\BHILLS\Desktop\Developer\EMS\bin\Debug\EMS.xml
+C:\Users\BHILLS\Desktop\Developer\EMS\obj\Debug\EMS.Resources.resources
+C:\Users\BHILLS\Desktop\Developer\EMS\obj\Debug\EMS.vbproj.GenerateResource.cache
+C:\Users\BHILLS\Desktop\Developer\EMS\obj\Debug\EMS.vbproj.CoreCompileInputs.cache
+C:\Users\BHILLS\Desktop\Developer\EMS\obj\Debug\EMS.exe
+C:\Users\BHILLS\Desktop\Developer\EMS\obj\Debug\EMS.xml
+C:\Users\BHILLS\Desktop\Developer\EMS\obj\Debug\EMS.pdb
+C:\Users\BHILLS\Desktop\Developer\EMS\obj\Debug\EMS.Splash.resources
+C:\Users\BHILLS\Desktop\Developer\EMS\obj\Debug\EMS.Login.resources
+C:\Users\BHILLS\Desktop\Developer\EMS\obj\Debug\EMS.Home.resources
